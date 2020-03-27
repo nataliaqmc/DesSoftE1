@@ -1,4 +1,5 @@
 import random
+#Todo usuário começará o jogo com 500 fichas:
 fichas = 500
 
 while fichas != 0:
