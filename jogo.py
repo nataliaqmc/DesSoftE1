@@ -29,7 +29,7 @@ while fichas != 0:
                 print('Você perdeu!')
                 fichas = fichas - valor_aposta
             
-            #Fase 2, "Point":
+          #Fase 2, "Point":
             else:
                 print('Agora você está na fase Point:')
                 print('Você pode escolher entre quatro apostas, "Pass Line Bet", "Field", "Any Craps", ou "Twelve".')
