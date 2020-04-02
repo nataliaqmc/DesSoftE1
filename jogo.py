@@ -1,6 +1,6 @@
 '''
 Exercício 1 de Design de Software - Insper
-Jogo de Craps
+Jogo de Craps simplificado
 @author: Natália Carreras
 '''
 
